@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.pmanaktala</groupId>
     <artifactId>zippingservice</artifactId>
-    <version>0.1.alpha</version>
+    <version>0.2.alpha</version>
     <name>zippingservice</name>
     <description>Project for streaming the zip file back to caller</description>
     <properties>
